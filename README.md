@@ -13,4 +13,4 @@ Apple Mac keyboard Shortcuts
 ## Also works for multiple lines
 <img width="525" height="255" alt="duplicate-line" src="https://github.com/user-attachments/assets/e8b14f04-1af9-4916-bf2d-527fbd737001" /><br>
 # Delete line
-<img width="1065" height="239" alt="delete-line" src="https://github.com/user-attachments/assets/491de7e8-c53a-4401-9436-995f9bb2ae3f" />
+<img width="1079" height="239" alt="delete-line" src="https://github.com/user-attachments/assets/139d12c0-8a52-4dae-b836-714823f09a62" /><br>
