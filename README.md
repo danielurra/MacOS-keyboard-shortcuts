@@ -9,7 +9,7 @@ Apple Mac keyboard Shortcuts
 ## Emojis
 ![emojis-actual-screenshot](https://github.com/danielurra/mac-keyboard-shortcuts/assets/51704179/84912f4b-bc32-4cc1-8e0f-ca462b57a080)<br>
 ![emojis](https://github.com/danielurra/mac-keyboard-shortcuts/assets/51704179/894266f7-62ba-401a-9cde-c56c44b54bf1)<br>
-## Duplicate line
-# Also works for multiple lines
+# Duplicate line
+## Also works for multiple lines
 <img width="525" height="255" alt="duplicate-line" src="https://github.com/user-attachments/assets/e8b14f04-1af9-4916-bf2d-527fbd737001" />
 
