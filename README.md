@@ -14,3 +14,6 @@ Apple Mac keyboard Shortcuts
 <img width="525" height="255" alt="duplicate-line" src="https://github.com/user-attachments/assets/e8b14f04-1af9-4916-bf2d-527fbd737001" /><br>
 # Delete line
 <img width="1079" height="239" alt="delete-line" src="https://github.com/user-attachments/assets/139d12c0-8a52-4dae-b836-714823f09a62" /><br>
+# Comments
+<img width="632" height="258" alt="comments" src="https://github.com/user-attachments/assets/27296693-a23f-4610-ac40-9445f67cea79" /><br>
+
